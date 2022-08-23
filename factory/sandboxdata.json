@@ -1,0 +1,9 @@
+{
+	"name": "sandboxdata",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "643f2fee-f877-474a-b036-533fcccd5e44",
+		"tenantId": "9b25b144-a1de-49d7-89e0-b4b14fe6bd16"
+	}
+}
